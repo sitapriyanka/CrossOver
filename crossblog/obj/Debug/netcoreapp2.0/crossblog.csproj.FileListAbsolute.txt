@@ -1,0 +1,10 @@
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog\bin\Debug\netcoreapp2.0\crossblog.deps.json
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog\bin\Debug\netcoreapp2.0\crossblog.runtimeconfig.json
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog\bin\Debug\netcoreapp2.0\crossblog.runtimeconfig.dev.json
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog\bin\Debug\netcoreapp2.0\crossblog.dll
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog\bin\Debug\netcoreapp2.0\crossblog.pdb
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog\obj\Debug\netcoreapp2.0\crossblog.csproj.CoreCompileInputs.cache
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog\obj\Debug\netcoreapp2.0\crossblog.AssemblyInfoInputs.cache
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog\obj\Debug\netcoreapp2.0\crossblog.AssemblyInfo.cs
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog\obj\Debug\netcoreapp2.0\crossblog.dll
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog\obj\Debug\netcoreapp2.0\crossblog.pdb

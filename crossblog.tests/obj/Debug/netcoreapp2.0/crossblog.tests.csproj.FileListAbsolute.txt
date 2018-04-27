@@ -1,0 +1,15 @@
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog.tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog.tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog.tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog.tests\bin\Debug\netcoreapp2.0\crossblog.tests.deps.json
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog.tests\bin\Debug\netcoreapp2.0\crossblog.tests.runtimeconfig.json
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog.tests\bin\Debug\netcoreapp2.0\crossblog.tests.runtimeconfig.dev.json
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog.tests\bin\Debug\netcoreapp2.0\crossblog.tests.dll
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog.tests\bin\Debug\netcoreapp2.0\crossblog.tests.pdb
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog.tests\bin\Debug\netcoreapp2.0\crossblog.dll
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog.tests\bin\Debug\netcoreapp2.0\crossblog.pdb
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog.tests\obj\Debug\netcoreapp2.0\crossblog.tests.csproj.CoreCompileInputs.cache
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog.tests\obj\Debug\netcoreapp2.0\crossblog.tests.AssemblyInfoInputs.cache
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog.tests\obj\Debug\netcoreapp2.0\crossblog.tests.AssemblyInfo.cs
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog.tests\obj\Debug\netcoreapp2.0\crossblog.tests.dll
+d:\Priyanka\crossover\crossblogs-dotnet-sa\crossblog.tests\obj\Debug\netcoreapp2.0\crossblog.tests.pdb
