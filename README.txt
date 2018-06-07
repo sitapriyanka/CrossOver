@@ -51,3 +51,14 @@ Some Curl command examples
 =====================================
 curl -i -H "Content-Type: application/json" -X POST -d "{'title':'How to use docker', 'content':'xyz', 'date': '2018-03-10', 'published':false}" http://localhost:5000/articles
 curl -i -H "Content-Type: application/json" http://localhost:5000/articles/search?title=doc
+
+=====================================
+Some docker command examples
+=====================================
+
+docker build -f dockerfile.txt .
+docker run -d -p 8080:80 --name crossblogsapp --link
+ test-mysql:mysql b9e
+ 
+ 
+
